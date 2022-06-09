@@ -1,2 +1,3 @@
 # smarthome-sdk
- A go package which makes communication to a smarthome server simple
+# This repository has been transferred to the [Smarthome](https://github.com/smarthome-go/sdk) organization.
+ A go package which makes communication to a smarthome server simple.
